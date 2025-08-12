@@ -32,6 +32,6 @@ Built for fast, scalable, and intelligent document retrieval.
 
 
 
-   ![Search Example](https://raw.githubusercontent.com/ayush7480/AI-Document-Search/main/images/search_example.png)
-   ![Insert Example](https://raw.githubusercontent.com/ayush7480/AI-Document-Search/main/images/insert_example.png)
+   ![Search Example](https://raw.githubusercontent.com/ayush7480/AI-Document-Search/images/search_example.png)
+   ![Insert Example](https://raw.githubusercontent.com/ayush7480/AI-Document-Search/images/insert_example.png)
 
