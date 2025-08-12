@@ -29,3 +29,9 @@ Built for fast, scalable, and intelligent document retrieval.
    ```bash
    git clone https://github.com/ayush7480/AI-Document-Search.git
    cd AI-Document-Search
+
+
+
+   ![Search Example](images/search_example.png)
+   ![Insert Example](images/insert_example.png)
+
